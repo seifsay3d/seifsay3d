@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, it's Seif 👋
+
+I work as a staff software engineer at [One Data](https://onedata.ai/) and build [Skool Community](https://www.skool.com/crumbz-4029/about)  🧙 
+
+[Blog](https://medium.com/@seif.sayed) - [Linkedin](https://www.linkedin.com/in/seif-sayed/)
 
 <!--
 **seifsay3d/seifsay3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
