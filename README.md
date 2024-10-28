@@ -1,6 +1,6 @@
 ### Hi, it's Seif 👋
 
-I work as a staff software engineer at [One Data](https://onedata.ai/) and build [Skool Community](https://www.skool.com/crumbz-4029/about)  🧙 
+I work as a staff software engineer at [One Data](https://onedata.ai/)
 
 [Blog](https://medium.com/@seif.sayed) - [Linkedin](https://www.linkedin.com/in/seif-sayed/)
 
